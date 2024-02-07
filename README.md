@@ -2,7 +2,7 @@
 
 The SensorFusion class is a Python implementation for sensor data fusion techniques, especially designed for obstacles. This class provides methods to visualize synthetic sensor data, apply fusion techniques, and plot the results.
 
-Overview
+
 The following functionalities are provided by the SensorFusion class:
 
 plot_sensor_data: Display the original sensor data from both the obstacle and vision sensors.
